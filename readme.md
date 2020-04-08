@@ -39,4 +39,6 @@ Caso deseja rodar os testes, utilize o seguinte comando:
 
 > yarn test
 
-<hr />
+---
+
+Obrigado!
